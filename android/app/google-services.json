@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "588105156965",
+    "project_id": "eytechathon-f9725",
+    "storage_bucket": "eytechathon-f9725.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588105156965:android:eabc35e55b6b1b48a2b98c",
+        "android_client_info": {
+          "package_name": "com.example.ey_techathon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVyWePq8eaebv3R-DlBEO2nkqlVJpej8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
