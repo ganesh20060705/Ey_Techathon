@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ey_techathon
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Ey_Techathon
+>>>>>>> de1ab2dceb0ec8b6d730ea81ddcf553f6c07221b
